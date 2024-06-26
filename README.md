@@ -14,6 +14,9 @@ In this work, we present a conceptually simple yet powerful baseline for the mul
 ## Inference
 First, download the LoRA adapter, tokenizer, imagebind, and projector weights from [s-nlp/s3](https://huggingface.co/s-nlp/s3). You should also pre-download [Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1) as it's a base model of S³. Then pass them to the generation function (see `example.ipynb` for details)
 
+## Example
+[![See an example on YouTube]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/eUH6LNCADKQ))
+
 ## Citation
 
 ```
