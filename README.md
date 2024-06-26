@@ -15,7 +15,8 @@ In this work, we present a conceptually simple yet powerful baseline for the mul
 First, download the LoRA adapter, tokenizer, imagebind, and projector weights from [s-nlp/s3](https://huggingface.co/s-nlp/s3). You should also pre-download [Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1) as it's a base model of S³. Then pass them to the generation function (see `example.ipynb` for details)
 
 ## Example
-[See an example on YouTube](https://youtu.be/eUH6LNCADKQ)
+[See an example with image files on YouTube](https://youtu.be/eUH6LNCADKQ)
+[See an example with audio files on YouTube]([https://youtu.be/eUH6LNCADKQ](https://youtu.be/uTaOLo04LeM))
 
 ## Citation
 
