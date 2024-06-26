@@ -16,7 +16,8 @@ First, download the LoRA adapter, tokenizer, imagebind, and projector weights fr
 
 ## Example
 [See an example with image files on YouTube](https://youtu.be/eUH6LNCADKQ)
-[See an example with audio files on YouTube]([https://youtu.be/eUH6LNCADKQ](https://youtu.be/uTaOLo04LeM))
+
+[See an example with audio files on YouTube](https://youtu.be/uTaOLo04LeM)
 
 ## Citation
 
